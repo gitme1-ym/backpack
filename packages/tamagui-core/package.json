@@ -35,7 +35,7 @@
     "@coral-xyz/recoil": "workspace:*",
     "@emotion/css": "^11.11.2",
     "@mui/material": "^5.14.1",
-    "@mui/styles": "^5.14.20",
+    "@mui/styles": "^5.18.0",
     "@react-navigation/native": "^6.1.7",
     "@tamagui/animations-react-native": "~1.76.0",
     "@tamagui/babel-plugin": "~1.76.0",
